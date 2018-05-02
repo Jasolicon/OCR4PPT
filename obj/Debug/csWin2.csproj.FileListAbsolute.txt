@@ -1,0 +1,191 @@
+D:\国创\北创试验\csWin2\csWin2\obj\Debug\csWin2.Form1.resources
+D:\国创\北创试验\csWin2\csWin2\obj\Debug\csWin2.Properties.Resources.resources
+D:\国创\北创试验\csWin2\csWin2\obj\Debug\csWin2.csproj.GenerateResource.Cache
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\csWin2.exe.config
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\csWin2.exe
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\csWin2.pdb
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\Emgu.CV.UI.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\Emgu.CV.UI.GL.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\Emgu.CV.World.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\OpenTK.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\OpenTK.GLControl.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\ZedGraph.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\Emgu.CV.UI.xml
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\Emgu.CV.UI.GL.xml
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\Emgu.CV.World.xml
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\OpenTK.xml
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\OpenTK.GLControl.xml
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\ZedGraph.xml
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\de\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\es\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\fr\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\hu\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\it\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\ja\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\pt\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\ru\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\sk\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\sv\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\tr\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2\csWin2\obj\Debug\csWin2.exe
+D:\国创\北创试验\csWin2\csWin2\obj\Debug\csWin2.pdb
+D:\国创\北创试验\csWin2\csWin2\obj\Debug\csWin2.csprojResolveAssemblyReference.cache
+D:\国创\北创试验\csWin2 - 副本\csWin2\obj\Debug\csWin2.csprojResolveAssemblyReference.cache
+D:\国创\北创试验\csWin2 - 副本\csWin2\obj\Debug\csWin2.Form1.resources
+D:\国创\北创试验\csWin2 - 副本\csWin2\obj\Debug\csWin2.Properties.Resources.resources
+D:\国创\北创试验\csWin2 - 副本\csWin2\obj\Debug\csWin2.csproj.GenerateResource.Cache
+D:\国创\北创试验\csWin2 - 副本\csWin2\obj\Debug\csWin2.exe
+D:\国创\北创试验\csWin2 - 副本\csWin2\obj\Debug\csWin2.pdb
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\csWin2.exe.config
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\csWin2.exe
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\csWin2.pdb
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\Emgu.CV.UI.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\Emgu.CV.UI.GL.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\Emgu.CV.World.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\OpenTK.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\OpenTK.GLControl.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\ZedGraph.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\Emgu.CV.UI.xml
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\Emgu.CV.UI.GL.xml
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\Emgu.CV.World.xml
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\OpenTK.xml
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\OpenTK.GLControl.xml
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\ZedGraph.xml
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\de\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\es\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\fr\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\hu\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\it\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\ja\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\pt\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\ru\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\sk\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\sv\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\tr\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\国创\北创试验\csWin2 - 副本\csWin2\obj\Debug\csWin2.MouseRoi.resources
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\csWin2.exe.config
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\csWin2.exe
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\csWin2.pdb
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\Emgu.CV.UI.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\Emgu.CV.UI.GL.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\Emgu.CV.World.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\OpenTK.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\OpenTK.GLControl.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\ZedGraph.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\Emgu.CV.UI.xml
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\Emgu.CV.UI.GL.xml
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\Emgu.CV.World.xml
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\OpenTK.xml
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\OpenTK.GLControl.xml
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\ZedGraph.xml
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\de\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\es\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\fr\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\hu\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\it\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\ja\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\pt\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\ru\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\sk\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\sv\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\tr\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\国创\北创试验\WordBigBang\csWin2\obj\Debug\csWin2.csprojResolveAssemblyReference.cache
+D:\国创\北创试验\WordBigBang\csWin2\obj\Debug\csWin2.Bigbang.resources
+D:\国创\北创试验\WordBigBang\csWin2\obj\Debug\csWin2.Form1.resources
+D:\国创\北创试验\WordBigBang\csWin2\obj\Debug\csWin2.MouseRoi.resources
+D:\国创\北创试验\WordBigBang\csWin2\obj\Debug\csWin2.Properties.Resources.resources
+D:\国创\北创试验\WordBigBang\csWin2\obj\Debug\csWin2.csproj.GenerateResource.Cache
+D:\国创\北创试验\WordBigBang\csWin2\obj\Debug\csWin2.exe
+D:\国创\北创试验\WordBigBang\csWin2\obj\Debug\csWin2.pdb
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\DictSeg.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\FTAlgorithm.dll
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\DictSeg.pdb
+D:\国创\北创试验\WordBigBang\csWin2\bin\Debug\FTAlgorithm.pdb
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\csWin2.exe.config
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\csWin2.exe
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\csWin2.pdb
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\DictSeg.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\Emgu.CV.UI.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\Emgu.CV.World.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\FTAlgorithm.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\OpenTK.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\ZedGraph.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\DictSeg.pdb
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\Emgu.CV.World.xml
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\FTAlgorithm.pdb
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\OpenTK.xml
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\ZedGraph.xml
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.csprojResolveAssemblyReference.cache
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.Bigbang.resources
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.Form1.resources
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.MouseRoi.resources
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.Properties.Resources.resources
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.csproj.GenerateResource.Cache
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.csproj.CoreCompileInputs.cache
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.exe
+C:\Users\李景阳\Desktop\WordBigBang\csWin2\obj\Debug\csWin2.pdb
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\csWin2.exe.config
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\csWin2.exe
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\csWin2.pdb
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\DictSeg.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\Emgu.CV.UI.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\Emgu.CV.World.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\FTAlgorithm.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\OpenTK.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\ZedGraph.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\DictSeg.pdb
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\Emgu.CV.World.xml
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\FTAlgorithm.pdb
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\OpenTK.xml
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\ZedGraph.xml
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.csprojResolveAssemblyReference.cache
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.Bigbang.resources
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.Form1.resources
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.MouseRoi.resources
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.Properties.Resources.resources
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.csproj.GenerateResource.Cache
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.csproj.CoreCompileInputs.cache
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.exe
+C:\Users\李景阳\Desktop\WordBigBang - 副本\csWin2\obj\Debug\csWin2.pdb

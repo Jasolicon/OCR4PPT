@@ -1,0 +1,5 @@
+C:\Users\SF\Downloads\v1.4.02\Release\DictSeg.dll
+C:\Users\SF\Downloads\v1.4.02\Release\DictSeg.pdb
+C:\Users\SF\Downloads\v1.4.02\DictSeg\obj\Release\KTDictSeg.csprojResolveAssemblyReference.cache
+C:\Users\SF\Downloads\v1.4.02\DictSeg\obj\Release\DictSeg.dll
+C:\Users\SF\Downloads\v1.4.02\DictSeg\obj\Release\DictSeg.pdb

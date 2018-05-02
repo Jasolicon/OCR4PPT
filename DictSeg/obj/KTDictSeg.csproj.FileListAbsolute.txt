@@ -1,0 +1,10 @@
+G:\opensource\KTDictSeg\V1.4.01\Debug\DictSeg.dll
+G:\opensource\KTDictSeg\V1.4.01\Debug\DictSeg.pdb
+G:\opensource\KTDictSeg\V1.4.01\DictSeg\obj\Debug\ResolveAssemblyReference.cache
+G:\opensource\KTDictSeg\V1.4.01\DictSeg\obj\Debug\DictSeg.dll
+G:\opensource\KTDictSeg\V1.4.01\DictSeg\obj\Debug\DictSeg.pdb
+G:\opensource\KTDictSeg\V1.4.01\Release\DictSeg.dll
+G:\opensource\KTDictSeg\V1.4.01\Release\DictSeg.pdb
+G:\opensource\KTDictSeg\V1.4.01\DictSeg\obj\Release\ResolveAssemblyReference.cache
+G:\opensource\KTDictSeg\V1.4.01\DictSeg\obj\Release\DictSeg.dll
+G:\opensource\KTDictSeg\V1.4.01\DictSeg\obj\Release\DictSeg.pdb
